@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Audio in HTML</title>
+    </head>
+    <body>
+        <h1>
+            Audio in HTML
+        </h1>
+        <audio controls autoplay>
+        <source src="Poem.mpeg" type="audio/mpeg">
+        </audio>
+    </body>
+</html>
